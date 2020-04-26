@@ -1,0 +1,3 @@
+/mnt/c/Estudos/CodeBase/cpp-socket-try/cserver/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Estudos/CodeBase/cpp-socket-try/cserver/build/CMakeFiles/server.dir
+/mnt/c/Estudos/CodeBase/cpp-socket-try/cserver/build/CMakeFiles/edit_cache.dir

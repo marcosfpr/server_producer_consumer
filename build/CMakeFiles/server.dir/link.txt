@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/Server.cpp.o CMakeFiles/server.dir/src/SocketConsumer.cpp.o CMakeFiles/server.dir/src/TcpListener.cpp.o  -o server -lpthread 
